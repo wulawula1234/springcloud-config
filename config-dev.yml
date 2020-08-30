@@ -1,2 +1,2 @@
-user:123
-password:123
+config:
+  info: "master branch,springcloud-config/config-dev.yml version=1"
